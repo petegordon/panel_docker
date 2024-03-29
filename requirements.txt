@@ -1,0 +1,5 @@
+pandas
+holoviews
+hvplot
+panel
+psutil
